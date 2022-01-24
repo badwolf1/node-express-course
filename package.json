@@ -1,8 +1,7 @@
 {
   "dependencies": {
     "bootstrap": "^5.1.3",
-    "lodash": "^4.17.21",
-    "nodemon": "^2.0.15"
+    "lodash": "^4.17.21"
   },
   "name": "express-course",
   "description": "",
@@ -20,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/badwolf1/node-express-course/issues"
   },
-  "homepage": "https://github.com/badwolf1/node-express-course#readme"
+  "homepage": "https://github.com/badwolf1/node-express-course#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
